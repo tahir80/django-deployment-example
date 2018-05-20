@@ -25,7 +25,7 @@ SECRET_KEY = 'w3*(elos)crw9tj(x-^$5(uc^xk)u2$1!5%etci9yk^1bgq3(a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['tahirabbas80.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'tahirabbas80.pythonanywhere.com']
 
 
 # Application definition
